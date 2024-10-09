@@ -1,0 +1,8 @@
+Performance Report:
+Total PDFs processed: 18
+Total processing time: 5.41 seconds
+CPU usage: 14.1%
+Memory usage: 88.5%
+Memory available: 897.16 MB
+Memory used: 6921.48 MB
+Memory total: 7818.64 MB
